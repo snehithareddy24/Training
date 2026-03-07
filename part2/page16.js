@@ -2,6 +2,6 @@ function greet(name, callback) {
   callback();
   console.log(`Welcome ${name}`)
 }
-greet("Akshaya", () => {
+greet("Snehitha", () => {
   console.log("Hello");
 });
